@@ -1,12 +1,12 @@
-head{
-
-}
 body{
-
+  background-color: aquamarine;
+  color: dimgrey;
 }
-h1{
-
+.text{
+ text-align: center; font-weight: bold;
 }
-p{
-
+.img{
+  display: block;
+      margin-left: auto;
+      margin-right: auto
 }
